@@ -495,7 +495,6 @@ textarea:hover{
 /*For Mobiles*/
 @media (max-width: 535px){
     #home{
-        height: 80vh;
         margin-left: 25%;
     }
    .navicons{
