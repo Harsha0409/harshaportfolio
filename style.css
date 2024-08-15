@@ -496,8 +496,8 @@ textarea:hover{
 @media (max-width: 535px){
     #home{
         height: 70%;
-        margin-top: 20%;
-        margin-bottom: 20%;
+        margin-top: 30%;
+        margin-bottom: 30%;
         margin-left: 25%;
     }
    .navicons{
@@ -545,8 +545,8 @@ textarea:hover{
 }
 #aboutme{
     height: 70%;
-    margin-top: 20%;
-    margin-bottom: 20%;
+    margin-top: 30%;
+    margin-bottom: 30%;
 }
 .aboutinfo{
     width: 80vw;
@@ -563,8 +563,8 @@ textarea:hover{
     margin: 80px auto;
     margin-left: 8%;
     height: 70%;
-    margin-top: 20%;
-    margin-bottom: 20%;
+    margin-top: 30%;
+    margin-bottom: 30%;
 }
 .skillinfo {
     font-size: 1em;
@@ -574,7 +574,8 @@ textarea:hover{
     font-size: 1.1em;
 }
 #projects{
-    margin-top: 40%;
+    margin-top: 30%;
+    margin-bottom: 30%;
 }
 .project1img img{
     height: 20vh;
