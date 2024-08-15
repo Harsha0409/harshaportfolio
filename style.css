@@ -495,8 +495,7 @@ textarea:hover{
 /*For Mobiles*/
 @media (max-width: 535px){
     #home{
-        margin: 45% auto;
-        margin-left: 25%;
+        margin-left: 27%;
     }
    .navicons{
     padding: 0px;
@@ -532,8 +531,6 @@ textarea:hover{
     margin-top: 15px;
     margin-left: 10px;
 }
-#aboutme{
-     margin: 45% auto;
 .me2{
     width: 80vw;
 }
